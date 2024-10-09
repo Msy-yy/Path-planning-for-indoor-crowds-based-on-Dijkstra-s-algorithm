@@ -1,0 +1,1 @@
+saveVariable/G0.txt filter=lfs diff=lfs merge=lfs -text
